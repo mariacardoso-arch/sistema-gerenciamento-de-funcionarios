@@ -1,5 +1,5 @@
 # sistema-gerenciamento-de-funcionarios
-Nome: **Sistema desenvolvido em Python para gerenciamento de funcionários.**
+Nome: **Sistema de gerenciamento de funcionários.**
 
 Descrição: Ele permite que os usuários  de uma empresa se cadastrem, permite consultar os cadastros, atualizar ou excluir informações dos funcionários.
 
