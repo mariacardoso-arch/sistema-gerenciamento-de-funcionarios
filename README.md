@@ -1,17 +1,17 @@
 # sistema-gerenciamento-de-funcionarios
-Nome: **Sistema de gerenciamento de funcionários.**
+## **Sistema de gerenciamento de funcionários.**
 
-Descrição: Ele permite que os usuários  de uma empresa se cadastrem, permite consultar os cadastros, atualizar ou excluir informações dos funcionários.
+###**Descrição:** Ele permite que os usuários  de uma empresa se cadastrem, permite consultar os cadastros, atualizar ou excluir informações dos funcionários.
 
-Objetivo: Facilitar o sistema de gerenciamento de funcionários, com os dados de forma fácil e organizada de achar ou acessar.
+###**Objetivo:** Facilitar o sistema de gerenciamento de funcionários, com os dados de forma fácil e organizada de achar ou acessar.
 
-Nome integrante: Maria Eduarda
+**Nome integrante:** Maria Eduarda
 
-Tecnologias: 
+**Tecnologias:** 
 Python / JSON / Git / GitHub / Visual Studio Code
 
 
-Funcionalidades:
+###**Funcionalidades:**
 
 - *Cadastrar funcionário:* permite adicionar um novo funcionário, informando nome, idade, cargo e e-mail.
 - *Consultar funcionários:* permite visualizar os funcionários cadastrados.
