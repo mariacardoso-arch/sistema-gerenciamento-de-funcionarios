@@ -7,11 +7,11 @@
 
 **Nome integrante:** Maria Eduarda
 
-**Tecnologias:** 
+### **Tecnologias:** 
 Python / JSON / Git / GitHub / Visual Studio Code
 
 
-**Funcionalidades:**
+### **Funcionalidades:**
 
 - *Cadastrar funcionário:* permite adicionar um novo funcionário, informando nome, idade, cargo e e-mail.
 - *Consultar funcionários:* permite visualizar os funcionários cadastrados.
@@ -19,18 +19,18 @@ Python / JSON / Git / GitHub / Visual Studio Code
 - *Excluir funcionário:* permite remover um funcionário cadastrado, com confirmação antes da exclusão.
 - *Menu interativo:* permite escolher qual operação deseja realizar.
 
-Instruções para instalação e execução:
+### Instruções para instalação e execução:
 1. **Instale o Python no computador.**
 2. **Faça o download ou clone este repositório.**
 3. **Abra a pasta do projeto no Visual Studio Code.**
 4. **Abra o terminal na pasta principal.**
 5. **Execute o comando: No terminal main.py use "python src/main.py" para o código iniciar.**
 
-**Armazenamento dos dados:** 
+### **Armazenamento dos dados:** 
 - Os dados dos funcionários são armazenados no arquivo funcionarios.json, localizado na pasta data.
 - O formato JSON permite salvar as informações e recuperá-las quando o sistema for executado novamente.
 
-**A estrutura do Projeto:**
+### **A estrutura do Projeto:**
 
 ```
 sistema-gerenciamento-de-funcionarios/
