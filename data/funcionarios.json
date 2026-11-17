@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "duda",
+        "idade": "19",
+        "cargo": "adm",
+        "email": "duda@gmail.com"
+    },
+    {
+        "id": 2,
+        "nome": "duda",
+        "idade": "19",
+        "cargo": "adm",
+        "email": "duda@gmail.com"
+    },
+    {
+        "id": 4,
+        "nome": "Maria duda",
+        "idade": "21",
+        "cargo": "gerente",
+        "email": "dudacardoso@gmail.com"
+    }
+]
