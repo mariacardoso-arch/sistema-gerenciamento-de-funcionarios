@@ -39,11 +39,11 @@ sistema-gerenciamento-de-funcionarios/
 │   └── funcionarios.json
 │
 ├── imagens/
-│   ├── menu.png
+│   ├── atualizacao.png
 │   ├── cadastro.png
 │   ├── consulta.png
-│   ├── atualizacao.png
-│   └── exclusao.png
+│   ├── exclusao.png
+│   └── menu.png
 │
 ├── src/
 │   ├── atualizacoes.py
