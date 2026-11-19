@@ -12,11 +12,15 @@ def atualizar_funcionario():
         print("\nNenhum funcionário cadastrado.")
         return
 
-    print("\n--- ATUALIZAÇÃO DE FUNCIONÁRIO ---")
+    print("\n ATUALIZAÇÃO DE FUNCIONÁRIO ")
 
     try:
         id_funcionario = int(input("Digite o ID do funcionário: "))
     except ValueError:
+        print("\nDigite um ID válido!")
+        return
+
+    if id_funcionario <= 0:
         print("\nDigite um ID válido!")
         return
 
@@ -42,7 +46,17 @@ def atualizar_funcionario():
         funcionario_encontrado["nome"] = nome
 
     if idade:
-        funcionario_encontrado["idade"] = idade
+        try:
+            idade_numero = int(idade)
+        except ValueError:
+            print("\nErro: A idade deve conter apenas números inteiros!")
+            return
+
+        if idade_numero <= 0:
+            print("\nErro: A idade deve ser maior que zero!")
+            return
+
+        funcionario_encontrado["idade"] = str(idade_numero)
 
     if cargo:
         funcionario_encontrado["cargo"] = cargo

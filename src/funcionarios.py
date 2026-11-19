@@ -19,6 +19,16 @@ def cadastrar_funcionario():
         print("\nErro: Todos os campos são obrigatórios!")
         return
 
+    try:
+        idade_numero = int(idade)
+    except ValueError:
+        print("\nErro: A idade deve conter apenas números inteiros!")
+        return
+
+    if idade_numero <= 0:
+        print("\nErro: A idade deve ser maior que zero!")
+        return
+
     for funcionario in funcionarios:
         if funcionario["email"].lower() == email.lower():
             print("\nEsse email já está cadastrado!")
@@ -32,7 +42,7 @@ def cadastrar_funcionario():
     funcionario = {
         "id": proximo_id,
         "nome": nome,
-        "idade": idade,
+        "idade": str(idade_numero),
         "cargo": cargo,
         "email": email
     }
