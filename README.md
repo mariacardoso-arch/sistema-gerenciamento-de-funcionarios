@@ -38,6 +38,13 @@ sistema-gerenciamento-de-funcionarios/
 ├── data/
 │   └── funcionarios.json
 │
+├── imagens/
+│   ├── menu.png
+│   ├── cadastro.png
+│   ├── consulta.png
+│   ├── atualizacao.png
+│   └── exclusao.png
+│
 ├── src/
 │   ├── atualizacoes.py
 │   ├── consultas.py
