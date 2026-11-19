@@ -62,3 +62,19 @@ sistema-gerenciamento-de-funcionarios/
 - *Excluir funcionário:* o usuário escolhe a opção 4, informa o ID do funcionário e confirma a exclusão.
 - *Sair:* o usuário escolhe a opção 0 para encerrar o sistema.
 
+### Imagens do sistema:
+
+### Menu principal
+![Menu principal](imagens/menu.png)
+
+### Cadastro de funcionário
+![Cadastro](imagens/cadastro.png)
+
+### Consulta de funcionários
+![Consulta](imagens/consulta.png)
+
+### Atualização de funcionário
+![Atualização](imagens/atualizacao.png)
+
+### Exclusão de funcionário
+![Exclusão](imagens/exclusao.png)
