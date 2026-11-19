@@ -52,9 +52,6 @@ sistema-gerenciamento-de-funcionarios/
 │   ├── funcionarios.py
 │   └── main.py
 │
-├── tests/
-│   └── test_funcionarios.py
-│
 ├── .gitignore
 └── README.md
 ```
