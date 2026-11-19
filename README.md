@@ -68,17 +68,17 @@ sistema-gerenciamento-de-funcionarios/
 
 ### Imagens do sistema:
 
-### Menu principal
+### *Menu principal:*
 ![Menu principal](imagens/menu.png)
 
-### Cadastro de funcionário
+### *Cadastro de funcionário:*
 ![Cadastro](imagens/cadastro.png)
 
-### Consulta de funcionários
+### *Consulta de funcionários:*
 ![Consulta](imagens/consulta.png)
 
-### Atualização de funcionário
+### *Atualização de funcionário:*
 ![Atualização](imagens/atualizacao.png)
 
-### Exclusão de funcionário
+### *Exclusão de funcionário:*
 ![Exclusão](imagens/exclusao.png)
